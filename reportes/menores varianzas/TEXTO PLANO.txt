@@ -1,0 +1,30 @@
+Frecuencias letras:
+A: 185
+B: 30
+C: 44
+D: 67
+E: 165
+F: 13
+G: 13
+H: 14
+I: 86
+J: 4
+K: 0
+L: 75
+M: 26
+N: 87
+O: 101
+P: 23
+Q: 21
+R: 99
+S: 101
+T: 57
+U: 61
+V: 18
+W: 0
+X: 1
+Y: 13
+Z: 4
+El promedio de las letras es: 50
+La varianza de las letras es: 2537
+------------------------------------
